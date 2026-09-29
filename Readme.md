@@ -360,11 +360,11 @@ Medical Data Analysis/
 
 
 
-\## 🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 
 
-\### 1. Clone the Repository
+### 1. Clone the Repository
 
 
 
@@ -376,7 +376,7 @@ cd Medical-Data-Analysis
 
 
 
-\### 2. Install Required Libraries
+### 2. Install Required Libraries
 
 
 
@@ -386,11 +386,14 @@ pip install -r requirements.txt
 
 
 
-\### 3. Run the Streamlit Application
+### 3. Run the Streamlit Application
 
 
 
 ```bash
 
 streamlit run app.py
+
+
+**Live App:** https://medical-project-nhjvst3uwmv8prygcbmek4.streamlit.app/
 
