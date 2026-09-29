@@ -370,10 +370,10 @@ Medical Data Analysis/
 
 ```bash
 
-git clone YOUR\_GITHUB\_REPOSITORY\_URL
+git clone https://github.com/kashi955/Medical-Project.git
 
-cd Medical-Data-Analysis
-
+cd Medical-Project
+```
 
 
 ### 2. Install Required Libraries
@@ -384,6 +384,7 @@ cd Medical-Data-Analysis
 
 pip install -r requirements.txt
 
+```
 
 
 ### 3. Run the Streamlit Application
@@ -394,6 +395,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+```
 
 **Live App:** https://medical-project-nhjvst3uwmv8prygcbmek4.streamlit.app/
 
